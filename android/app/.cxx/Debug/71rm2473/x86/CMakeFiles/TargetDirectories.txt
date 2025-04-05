@@ -1,0 +1,2 @@
+C:/Users/naras/OneDrive/Documents/Desktop/FlutterProjects/FoodBar-main/android/app/.cxx/Debug/71rm2473/x86/CMakeFiles/edit_cache.dir
+C:/Users/naras/OneDrive/Documents/Desktop/FlutterProjects/FoodBar-main/android/app/.cxx/Debug/71rm2473/x86/CMakeFiles/rebuild_cache.dir
