@@ -16,11 +16,8 @@ In today's world, understanding the nutritional value of food and managing medic
 ## Our Solution combines FoodBar (nutrition AI) and MediScan (medicine tracker) into one powerful health assistant.
 
 ## Demo Video link:
-Uploading Hackathon.mp4…
+https://github.com/user-attachments/assets/483d8fe9-8161-4eb2-8e14-fedf0097a1aa
 
-
-## APK Download:
-Available in APK folder for live testing.
 
 ## Team Members
 - P V L Narasimha Naidu
