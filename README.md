@@ -1,4 +1,4 @@
-# AROGAYA-NETRA-VASISTHA
+# AROGAYA-NETRA-VASHISHT
 
 ## Problem Statement
 In today's world, understanding the nutritional value of food and managing medications effectively are critical yet challenging tasks. Consumers face several challenges:
